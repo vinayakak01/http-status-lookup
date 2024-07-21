@@ -11,25 +11,21 @@ This repository contains a command-line tool for looking up HTTP status codes. T
 
 - *Lookup HTTP Status Codes*: Retrieve descriptions for various HTTP status codes.
 - *Easy to Use*: Simple command-line interface with an example usage.
-
+ [releases page](https://github.com/vinayakak01/http-status-lookup)
 ## Installation
 
-1. **Download whathttp.exe:**
-   - Go to the [releases page](https://github.com/vinayakak01/http-status-lookup) of this repository and download the whathttp.exe file.
+1. *Open terminal*
+    - Press Win + R, type cmd, and hit Enter to open the Command Prompt.
 
-2. *Open Command Prompt:*
-   - Press Win + R, type cmd, and hit Enter to open the Command Prompt.
-
-3. *Navigate to the Directory:*
-   - Use the cd command to navigate to the directory where whathttp.exe is located. For example:
-     sh
-     cd path\to\directory
+2. *Open a folder of your choice:*
+  
+3. *Enter: git clone :*
+   - [get code](https://github.com/vinayakak01/http-status-lookup)
      
+4. *Enter: cd http-status-lookup:*
 
-4. *Run the Tool:*
-   - Execute the tool by typing whathttp.exe followed by the HTTP status code you want to look up. For example:
-     sh
-     whathttp.exe 200
+5. *Start using:*
+    -.\whathttp.exe 404
      
 
 ## Example Usage
