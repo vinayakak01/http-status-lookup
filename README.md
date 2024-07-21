@@ -23,10 +23,10 @@ This repository contains a command-line tool for looking up HTTP status codes. T
    - [get code](https://github.com/vinayakak01/http-status-lookup)
      
 4. *Enter:*
-   -cd http-status-lookup:*
+   - cd http-status-lookup:*
 
 6. *Start using:*
-    --.\whathttp.exe 404
+    - .\whathttp.exe 404
      
 
 ## Example Usage
