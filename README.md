@@ -14,7 +14,7 @@ This repository contains a command-line tool for looking up HTTP status codes. T
 
 ## Installation
 
-1. **Download http_status.exe:**
+1. **Download whathttp.exe:**
    - Go to the [releases page](https://github.com/vinayakak01/http-status-lookup) of this repository and download the whathttp.exe file.
 
 2. *Open Command Prompt:*
@@ -27,7 +27,7 @@ This repository contains a command-line tool for looking up HTTP status codes. T
      
 
 4. *Run the Tool:*
-   - Execute the tool by typing http_status.exe followed by the HTTP status code you want to look up. For example:
+   - Execute the tool by typing whathttp.exe followed by the HTTP status code you want to look up. For example:
      sh
      whathttp.exe 200
      
@@ -36,7 +36,7 @@ This repository contains a command-line tool for looking up HTTP status codes. T
 
 - *To find the description for HTTP status code 200:*
   ```sh
-  http_status.exe 200
+  whathttp.exe 200
 
 
 ## Badges
