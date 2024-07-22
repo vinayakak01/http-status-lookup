@@ -20,10 +20,10 @@ This repository contains a command-line tool for looking up HTTP status codes. T
 2. *Open a folder of your choice:*
   
 3. *Enter: git clone :*
-   - [get code](https://github.com/vinayakak01/http-status-lookup)
+   - ```$ git clone https://github.com/vinayakak01/http-status-lookup.git```
      
 4. *Enter:*
-   - cd http-status-lookup:*
+   - ```cd http-status-lookup```
 
 6. *Start using:*
     - .\whathttp.exe 404
